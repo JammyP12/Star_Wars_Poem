@@ -1,4 +1,12 @@
 Star Wars Page 2
 
 This is Skywalker page
+<<<<<<< Updated upstream
 
+=======
+<<<<<<< HEAD
+and Bobba
+=======
+
+>>>>>>> master
+>>>>>>> Stashed changes
